@@ -1,0 +1,1 @@
+hook.Add("ChatText", "hide_convar", function(index, name, text, type) if type == "servermsg" then return true end end)
