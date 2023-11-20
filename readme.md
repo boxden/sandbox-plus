@@ -5,7 +5,7 @@ Addons list includes:
 
 -  [GodSentTools GPU Saver](https://steamcommunity.com/sharedfiles/filedetails/?id=2717005362)  
 Disables rendering entirely, when the game window is not focused or minimized. This helps to reduce GPU load and maybe save you from VRAM crash.  
-* I changed the color from blue to black. It is better for the eyes.
+I changed the color from blue to black. It is better for the eyes.
 
 -  [Death Sound Remover](https://steamcommunity.com/sharedfiles/filedetails/?id=158713291)  
 Tired of the annoying HEV Suit flatline that plays when you die? This replace that annoying sound with no death sound at all!
