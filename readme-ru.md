@@ -15,8 +15,8 @@
 
 - [NUC - F**k Weapon Selector sound](https://steamcommunity.com/sharedfiles/filedetails/?id=2606969631)
 Убирает звуки переключения и выбора оружия.
-Убрал звук при выборе weapon_rpg
-Требуется перезагрузка
+Убрал звук при выборе weapon_rpg.
+Требуется перезагрузка.
 
 - [Muted Toolgun](https://steamcommunity.com/sharedfiles/filedetails/?id=1080666656)
 Убирает лазерный эффект с инструмента и заглушает его звук.

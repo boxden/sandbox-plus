@@ -15,8 +15,9 @@ Removes the annoying ear ringing / tinnitus sound.
 
 -  [NUC - F**k Weapon Selector sound](https://steamcommunity.com/sharedfiles/filedetails/?id=2606969631)
 Removes the weapon switch and select sounds.
-* I also removed the sound when selecting weapon_rpg
-* Reboot required 
+I also removed the sound when selecting weapon_rpg.
+Reboot required.
+
 -  [Muted Toolgun](https://steamcommunity.com/sharedfiles/filedetails/?id=1080666656)
 Removes the laser effect from the toolgun and mutes the sound.
 
