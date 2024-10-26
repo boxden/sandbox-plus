@@ -16,7 +16,7 @@ hook.Add(
 
         spawnmenu.AddToolMenuOption(
             "Utilities",
-            "#godsenttools.name",
+            "GodSentTools",
             "GodSentTools_GPU_Saver",
             "#godsenttools.gpusaver.name",
             "",
