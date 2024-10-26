@@ -46,4 +46,5 @@ Script that will prevent concrete, metal, plaster and rocky props from burning w
 Allows to quit by pressing Alt+F4. Only works when a game is running.
 
 -  [Improved Prop Interact](https://steamcommunity.com/sharedfiles/filedetails/?id=2818729885)  
-Enhanced prop pickup. Proven to be useful when physics gun is not accessible, or if you don't feel like carrying that large handheld cannon around.
+Enhanced prop pickup. Proven to be useful when physics gun is not accessible, or if you don't feel like carrying that large handheld cannon around.  
+Hold R key and rotate the mouse
