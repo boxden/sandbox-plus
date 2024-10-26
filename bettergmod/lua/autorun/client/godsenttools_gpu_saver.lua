@@ -39,7 +39,7 @@ hook.Add(
                         "GodSentToolsGPUSaver",
                         function()
                             local anim = (RealTime() - start) * 1.5
-                            surface.SetDrawColor(0, 130, 255, anim * 255)
+                            surface.SetDrawColor(0, 0, 0, anim * 255)
                             surface.DrawRect(0, 0, ScrW(), ScrH())
                             if anim > 1.2 then
                                 manual = true
